@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Playout</string>
+    <string name="Log_in">Log_in</string>
+    <string name="Success">Success</string>
+    <string name="Loading">Loading</string>
+    <string name="Register">Register</string>
+    <string name="Me">Me</string>
+    <string name="Meet">Meet</string>
+    <string name="Engage">Engage</string>
+    <string name="Book">Book</string>
+</resources>
